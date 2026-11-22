@@ -1,0 +1,12 @@
+name: jitsi
+icon: jitsi
+title: Jitsi Meet
+category: collaboration
+
+services:
+# Publish its media port after the app is created: browsers send audio and video to it over UDP.
+- name: jitsi
+  title: Jitsi Meet
+  service: jitsi
+  required: true
+  main: true
