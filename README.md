@@ -9,7 +9,9 @@ composition for Jitsi Meet.
 
 ## Stack contract
 
+- [Jitsi Meet stack on Wodby](https://wodby.com/stacks/jitsi)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Jitsi Meet stack guide](https://wodby.com/docs/2.0/stacks/catalog/jitsi/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
@@ -21,7 +23,7 @@ composition for Jitsi Meet.
 
 | Component / service | Default configuration |
 | --- | --- |
-| Jitsi Meet<br>`jitsi` | required; enabled by default; main |
+| Jitsi Meet<br>`jitsi` | required; enabled by default |
 
 Enabled optional services are selected by default but can be excluded when an
 app is created. Disabled optional services are available but not selected by
